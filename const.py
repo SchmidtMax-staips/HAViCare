@@ -20,7 +20,7 @@ VICARE_NAME = "ViCare"
 CONF_CIRCUIT = "circuit"
 CONF_HEATING_TYPE = "heating_type"
 
-DEFAULT_CACHE_DURATION = 40 # Standard: 60 (mit Abo theoretisch 30 möglich)
+DEFAULT_CACHE_DURATION = 45 # Standard: 60 (mit Abo theoretisch 30 möglich)
 
 VICARE_CUBIC_METER = "cubicMeter"
 VICARE_KWH = "kilowattHour"
